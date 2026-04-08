@@ -10,8 +10,21 @@
 # 💫 About Me:
  I’m currently learning and building my skills in web development, with experience in JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, and Git/GitHub. I focus on creating clean, responsive, and user-friendly web applications while continuously improving my problem-solving and development skills. My goal is to become a professional full-stack web developer and work on real-world, scalable projects.
  
-### Ask me about: 
-HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Git & GitHub, and building responsive web applications.
+<table align="">
+  <tr>
+    <td align="left" width="60%">
+
+### 👨‍💻 Ask me about:
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=36BCF7&vCenter=true&width=420&lines=HTML+%7C+CSS+%7C+JavaScript;React+%7C+Next.js;Node.js+%7C+Express.js;MongoDB+%7C+Firebase;Git+%26+GitHub;Responsive+Web+Applications)
+   </td>
+
+   <td align="right" width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+   </td>
+  </tr>
+</table>
+
 ### ⚡ Fun fact:
 I love exploring new technologies and improving my skills by building real-world projects.<br><br>
  ## 📫 How to reach me:
@@ -31,11 +44,9 @@ I love exploring new technologies and improving my skills by building real-world
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahafujur80&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mahafujur80&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahafujur80&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=mahafujur80&theme=dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujur80&" alt="mahafujur80" /></p>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahafujur80&layout=compact&theme=dark)
 
 ---
 
