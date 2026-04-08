@@ -27,9 +27,12 @@
 
 ### ⚡ Fun fact:
 I love exploring new technologies and improving my skills by building real-world projects.<br><br>
- ## 📫 How to reach me:
- Email: mahafujurrahman4480@gmail.com<br>
- Phone: +8801709534480
+## 📫 Connect with Me
+
+<p align="left">
+  📧 <b>Email:</b> <a href="mailto:mahafujurrahman4480@gmail.com">mahafujurrahman4480@gmail.com</a><br>
+  📱 <b>Phone:</b> <a href="tel:+8801709534480">+880 1709-534480</a>
+</p>
 
 
 ## 🌐 Socials:
