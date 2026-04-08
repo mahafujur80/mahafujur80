@@ -7,8 +7,13 @@
 
 
 
-# 💫 About Me:
- I’m currently learning and building my skills in web development, with experience in JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, and Git/GitHub. I focus on creating clean, responsive, and user-friendly web applications while continuously improving my problem-solving and development skills. My goal is to become a professional full-stack web developer and work on real-world, scalable projects.
+# 💫 About Me
+
+I am a passionate web developer currently learning and building my expertise in modern web technologies. I have hands-on experience with JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, and Git & GitHub.
+
+I enjoy creating clean, responsive, and user-friendly web applications while continuously improving my problem-solving abilities and development skills.
+
+My goal is to become a professional full-stack web developer and contribute to real-world, scalable, and impactful projects.
  
 <table align="">
   <tr>
