@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello!+I+am+Mahafujur+Rahman+Munna;Frontend+Developer;React+%7C+JavaScript+%7C+Next.js)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Mahafujur+Rahman+Munna;Great+to+meet+you!;Frontend+Engineer;React+%7C+JavaScript+%7C+Next.js)
 <h3 align="center">Frontend Developer | React.js | Tailwind CSS | JavaScript (ES6+) | Building Scalable & User-Friendly Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahafujur80&label=Profile%20views&color=0e75b6&style=flat" alt="mahafujur80" /> </p>
