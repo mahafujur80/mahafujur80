@@ -7,12 +7,11 @@
  I’m currently learning and building my skills in web development, with experience in JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, and Git/GitHub. I focus on creating clean, responsive, and user-friendly web applications while continuously improving my problem-solving and development skills. My goal is to become a professional full-stack web developer and work on real-world, scalable projects.
  
 ### Ask me about: 
- HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Git & GitHub, and building responsive web applications.
+HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Git & GitHub, and building responsive web applications.
 ### ⚡ Fun fact:
- I love exploring new technologies and improving my skills by building real-world projects.<br><br>
- 
+I love exploring new technologies and improving my skills by building real-world projects.<br><br>
  ## 📫 How to reach me:
- Email: mahafujurrahman4480@gmail.com
+ Email: mahafujurrahman4480@gmail.com<br>
  Phone: +8801709534480
 
 
