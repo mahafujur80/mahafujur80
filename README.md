@@ -49,6 +49,26 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 ### 🛠 Tech Stack
 React.js, Tailwind CSS, DaisyUI, JavaScript (ES6+), React-Toastify, JSON  
 
+<table>
+  <tr>
+    <!-- LEFT SIDE -->
+    <td width="60%" valign="middle">
+
+### 🧠 Ask Me About
+
+HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Express.js • MongoDB • Firebase • Git & GitHub • Responsive Web Development
+
+  </td>
+
+  <!-- RIGHT SIDE -->
+  <td width="40%" align="center" valign="middle">
+    
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+  </td>
+  </tr>
+</table>
+
 ### ✨ Features
 - Add to cart & remove with live update  
 - Product & cart toggle system  
