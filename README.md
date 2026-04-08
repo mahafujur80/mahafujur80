@@ -8,7 +8,7 @@
  
 ### Ask me about: 
  HTML, CSS, JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, Git & GitHub, and building responsive web applications.
- <hr>
+ ___
 ### ⚡ Fun fact:
  I love exploring new technologies and improving my skills by building real-world projects.<br><br>📫 How to reach me mahafujurrahman4480@gmail.com
 
