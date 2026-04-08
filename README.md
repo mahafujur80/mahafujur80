@@ -5,8 +5,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahafujur80&show_icons=true&locale=en&layout=compact" alt="mahafujur80" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahafujur80&show_icons=true&locale=en" alt="mahafujur80" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujur80&" alt="mahafujur80" /></p>
