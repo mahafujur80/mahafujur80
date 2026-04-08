@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=mahafujur80&label=Profile%20views&color=0e75b6&style=flat" alt="mahafujur80" />
 </p>
 
-<img width="100%" src="https://github.com/user-attachments/assets/aa09a34f-4299-4d37-a553-25e0c25d8b23" />
+<img width="1082" height="359" alt="Capture" src="https://github.com/user-attachments/assets/e3099b3e-86e7-4b99-a7db-39e7798cc719" />
+
 
 <h1 align="center">Hi 👋, I'm Mahafujur Rahman Munna</h1>
 
