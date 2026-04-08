@@ -1,7 +1,11 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Mahafujur+Rahman+Munna;Great+to+meet+you!;Full+Stack+Engineer;React+%7C+Next.js+%7C+Node.js)
-<h3 align="center">Frontend Developer | React.js | Tailwind CSS | JavaScript (ES6+) | Building Scalable & User-Friendly Web Apps</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahafujur80&label=Profile%20views&color=0e75b6&style=flat" alt="mahafujur80" /> </p>
+
+<img width="1500" height="500" alt="mahafujur_github_banner" src="https://github.com/user-attachments/assets/aa09a34f-4299-4d37-a553-25e0c25d8b23" />
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=👋I'm+Mahafujur+Rahman+Munna;Great+to+meet+you!;Frontend+Engineer;React+%7C+JavaScript+%7C+Next.js)
+
+
 
 # 💫 About Me:
  I’m currently learning and building my skills in web development, with experience in JavaScript, React, Next.js, Node.js, Express.js, MongoDB, Firebase, and Git/GitHub. I focus on creating clean, responsive, and user-friendly web applications while continuously improving my problem-solving and development skills. My goal is to become a professional full-stack web developer and work on real-world, scalable projects.
