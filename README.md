@@ -49,6 +49,11 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 
 ### 🛠 Tech Stack
 React.js, Tailwind CSS, DaisyUI, JavaScript (ES6+), React-Toastify, JSON  
+### ✨ Features
+- Add to cart & remove with live update  
+- Product & cart toggle system  
+- Toast notifications for user actions 
+
 
 <table>
   <tr>
@@ -69,12 +74,6 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
   </td>
   </tr>
 </table>
-
-### ✨ Features
-- Add to cart & remove with live update  
-- Product & cart toggle system  
-- Toast notifications for user actions 
-
 
 ---
 
