@@ -42,17 +42,18 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 
 # 🚀 Featured Projects
 
--  ## 🚀 DigiTools
+-  ## 🚀 ArtHub
 
-🔗 Live: https://digi-tools-zone.vercel.app/  
-💻 Repo: https://github.com/mahafujur80/DigiTools-PH-A06  
+🔗 Live: https://art-hub-client-one.vercel.app  
+💻 Repo: https://github.com/mahafujur80/ArtHub-client 
 
 ### 🛠 Tech Stack
-React.js, Tailwind CSS, DaisyUI, JavaScript (ES6+), React-Toastify, JSON  
+Next.js, Tailwind CSS, HeroUI, JavaScript (ES6+), Node.js, Express.js, JWT 
 ### ✨ Features
-- Add to cart & remove with live update  
-- Product & cart toggle system  
-- Toast notifications for user actions 
+- Role-Based Authentication & Dashboard 
+- Artwork Marketplace
+- TSecure Online Payment
+- Artwork & User Managemen
 
 
 <table>
