@@ -91,16 +91,16 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 
 <p>
   📧 <b>Email:</b> <a href="mailto:mahafujurrahman4480@gmail.com">mahafujurrahman4480@gmail.com</a><br>
-  📱 <b>Phone:</b> <a href="tel:+8801709534480">+880 1709-534480</a>
+  📱 <b>Phone or WhatsApp:</b> <a href="tel:+8801709534480">+880 1709-534480</a>
 </p>
 
 ---
 
 # 🌐 Social Links
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahafujur-rahman-munna)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahafujurrahman480)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahafujur80)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahafujur-rahman-munna)
 
 ---
 
