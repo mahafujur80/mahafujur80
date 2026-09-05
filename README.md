@@ -80,8 +80,7 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mahafujur80&theme=dark&cache_seconds=86400" width="48%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafujur80&layout=compact&theme=dark&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujur80&theme=dark&hide_border=true" width="48%"
 </p>
 
 ---
@@ -89,6 +88,7 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 # 📫 Connect with Me
 
 <p>
+  🌐 <b>Protfolio:</b> <a href="https://mahafujur-dev.vercel.app">mahafujur-dev.vercel.app</a><br>
   📧 <b>Email:</b> <a href="mailto:mahafujurrahman4480@gmail.com">mahafujurrahman4480@gmail.com</a><br>
   📱 <b>Phone or WhatsApp:</b> <a href="tel:+8801709534480">+880 1709-534480</a>
 </p>
