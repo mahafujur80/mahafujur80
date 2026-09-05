@@ -76,6 +76,14 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 </table>
 
 ---
+<h2>🐍 My Contributions</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mahafujur80/mahafujur80/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 # 📊 GitHub Stats
 
