@@ -80,8 +80,8 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahafujur80&theme=dark" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahafujur80&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahafujur80&theme=dark&cache_seconds=86400" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafujur80&layout=compact&theme=dark&cache_seconds=86400" width="48%" />
 </p>
 
 ---
