@@ -41,19 +41,21 @@ I enjoy creating clean, responsive, and user-friendly web applications while con
 
 # 🚀 Featured Projects
 
--  ## 🚀 ArtHub
+- ## 🚀 ArtHub
 
 🔗 Live: https://art-hub-client-one.vercel.app  
-💻 Repo: https://github.com/mahafujur80/ArtHub-client 
+💻 Repo: https://github.com/mahafujur80/ArtHub-client
 
 ### 🛠 Tech Stack
-Next.js, Tailwind CSS, HeroUI, JavaScript (ES6+), Node.js, Express.js, JWT 
+
+Next.js, Tailwind CSS, HeroUI, JavaScript (ES6+), Node.js, Express.js, JWT
+
 ### ✨ Features
-- Role-Based Authentication & Dashboard 
+
+- Role-Based Authentication & Dashboard
 - Artwork Marketplace
 - TSecure Online Payment
 - Artwork & User Managemen
-
 
 <table>
   <tr>
@@ -87,9 +89,31 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 
 # 📊 GitHub Stats
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahafujur80&theme=dark&hide_border=true" width="48%"
-</p>
+<div align="center">
+
+
+</div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=mahafujur80&show_icons=true&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahafujur80&layout=compact&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mahafujur80&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+</div>
+
 
 ---
 
@@ -107,7 +131,7 @@ HTML • CSS • JavaScript (ES6+) • React.js • Next.js • Node.js • Expr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahafujur-rahman-munna)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahafujurrahman480)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahafujur80)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahafujur80)
 
 ---
 
